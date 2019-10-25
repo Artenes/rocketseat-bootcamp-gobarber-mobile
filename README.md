@@ -136,6 +136,7 @@ Confirms the appointment.
 
 ### Profile
 Shows user data and allow to edit them.
+
 ![Profile](images/profile.png)
 
 ## Contributing
