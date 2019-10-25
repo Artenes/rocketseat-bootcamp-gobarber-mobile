@@ -108,24 +108,30 @@ yarn start
 
 ### SignUp
 Allows users to create an account.
+
 ![Signup](images/signup.png)
 
 ### SignIn
 Allows users to enter in the application.
+
 ![Signup](images/signin.png)
 
 ### Appointments
 Displays all appointments created by the user. The appointments are cancelable.
+
 ![Signup](images/appointments.png)
 
 ### Schedule
 Allow to select a provider to make a schedule.
+
 ![Provider](images/schedule_provider.png)
 
 Allow to select a date for the appointment.
+
 ![Time](images/schedule_time.png)
 
 Confirms the appointment.
+
 ![Time](images/schedule_confirm.png)
 
 ### Profile
